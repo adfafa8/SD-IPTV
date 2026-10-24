@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/89103_Uni.sdp
+#EXTINF:-1 ,CCTV2-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch15111015505054435886.rsc/88995_Uni.sdp
+#EXTINF:-1 ,CCTV3-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch21072816504132734115.rsc/91803_Uni.sdp
+#EXTINF:-1 ,CCTV4-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch17121814361050007455.rsc/89110_Uni.sdp
+#EXTINF:-1 ,CCTV5-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch21072816512692879794.rsc/92210_Uni.sdp
+#EXTINF:-1 ,CCTV5+
+rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch11061217321508656858.rsc/89133_Uni.sdp
+#EXTINF:-1 ,CCTV6-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch21072816530254611367.rsc/92165_Uni.sdp
+#EXTINF:-1 ,CCTV7-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch15111015535263088598.rsc/88994_Uni.sdp
+#EXTINF:-1 ,CCTV8-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch21072816531463294165.rsc/92143_Uni.sdp
+#EXTINF:-1 ,CCTV9-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/89073_Uni.sdp
+#EXTINF:-1 ,CCTV10-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch15111015554384702984.rsc/88998_Uni.sdp
+#EXTINF:-1 ,CCTV11-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch11122400354496191158.rsc/89074_Uni.sdp
+#EXTINF:-1 ,CCTV12-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch15111015571407754299.rsc/89000_Uni.sdp
+#EXTINF:-1 ,CCTV13-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch15050914361303395989.rsc/89053_Uni.sdp
+#EXTINF:-1 ,CCTV14-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch15111016003483433803.rsc/88993_Uni.sdp
+#EXTINF:-1 ,CCTV15-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch11122400365842237336.rsc/89013_Uni.sdp
+#EXTINF:-1 ,CCTV17-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch19073116233495000222.rsc/89017_Uni.sdp
+#EXTINF:-1 ,CGTN-HD
+rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch15050914501799552135.rsc/89047_Uni.sdp
+#EXTINF:-1 ,CETV1-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch17120418204481298161.rsc/89096_Uni.sdp
+#EXTINF:-1 ,金鹰纪实-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch15050917541337365144.rsc/89089_Uni.sdp
+#EXTINF:-1 ,体育赛事-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch19120615375703234003.rsc/89611_Uni.sdp
+#EXTINF:-1 ,家庭影院-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch18120514091718394256.rsc/89087_Uni.sdp
+#EXTINF:-1 ,动作电影-HD
+rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch18120514100139517699.rsc/89012_Uni.sdp
+#EXTINF:-1 ,高清电影-HD
+rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch18120514102191199606.rsc/89076_Uni.sdp
+#EXTINF:-1 ,山东齐鲁-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120117223157422538.rsc/89114_Uni.sdp
+#EXTINF:-1 ,山东文旅-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120117133527564831.rsc/89077_Uni.sdp
+#EXTINF:-1 ,山东生活-HD
+rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch10120117100570561699.rsc/89105_Uni.sdp
+#EXTINF:-1 ,山东综艺-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch11012815051671532768.rsc/89009_Uni.sdp
+#EXTINF:-1 ,山东体育-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10111720502861127519.rsc/89127_Uni.sdp
+#EXTINF:-1 ,山东新闻-HD
+rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch10120117023986249401.rsc/89036_Uni.sdp
+#EXTINF:-1 ,山东农科-HD
+rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch11012815072111657053.rsc/89018_Uni.sdp
+#EXTINF:-1 ,山东少儿-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch11012815083626567264.rsc/89117_Uni.sdp
+#EXTINF:-1 ,山东教育-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.rsc/89080_Uni.sdp
+#EXTINF:-1 ,济南新闻-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch13092921272839762982.rsc/89042_Uni.sdp
+#EXTINF:-1 ,山东卫视-HD
+rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch15050916441119736372.rsc/89070_Uni.sdp
+#EXTINF:-1 ,湖南卫视-HD
+rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch12051116352384581471.rsc/89115_Uni.sdp
+#EXTINF:-1 ,浙江卫视-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch15050917541521964962.rsc/89084_Uni.sdp
+#EXTINF:-1 ,东方卫视-HD
+rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch15050917541568689826.rsc/89038_Uni.sdp
+#EXTINF:-1 ,江苏卫视-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch12051116384379542816.rsc/89099_Uni.sdp
+#EXTINF:-1 ,北京卫视-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch12051116365437815794.rsc/89064_Uni.sdp
+#EXTINF:-1 ,安徽卫视-HD
+rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch15050917541532308683.rsc/89031_Uni.sdp
+#EXTINF:-1 ,天津卫视-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch15050917541659846769.rsc/89129_Uni.sdp
+#EXTINF:-1 ,辽宁卫视-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch15050917541756096231.rsc/89054_Uni.sdp
+#EXTINF:-1 ,深圳卫视-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch12051116392957055081.rsc/89107_Uni.sdp
+#EXTINF:-1 ,东南卫视-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch17082318094203998689.rsc/89065_Uni.sdp
+#EXTINF:-1 ,湖北卫视-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch15050917541519800547.rsc/89123_Uni.sdp
+#EXTINF:-1 ,广东卫视-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch15050917541650823873.rsc/89112_Uni.sdp
+#EXTINF:-1 ,黑龙江卫视-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch12051116400952898093.rsc/89019_Uni.sdp
+#EXTINF:-1 ,贵州卫视-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch17121814402415050847.rsc/89006_Uni.sdp
+#EXTINF:-1 ,河北卫视-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch17121814385494126166.rsc/89035_Uni.sdp
+#EXTINF:-1 ,重庆卫视-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120118293449046768.rsc/89024_Uni.sdp
+#EXTINF:-1 ,海南卫视-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120116181598810422.rsc/89022_Uni.sdp
+#EXTINF:-1 ,四川卫视-HD
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch11122400393964414144.rsc/89015_Uni.sdp
+#EXTINF:-1 ,河南卫视-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120118312827983078.rsc/89029_Uni.sdp
+#EXTINF:-1 ,江西卫视-HD
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120118345500084693.rsc/89056_Uni.sdp
+#EXTINF:-1 ,云南卫视
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120116144658191615.rsc/89067_Uni.sdp
+#EXTINF:-1 ,广西卫视
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120114524702485505.rsc/89002_Uni.sdp
+#EXTINF:-1 ,吉林卫视
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120116035123677506.rsc/89106_Uni.sdp
+#EXTINF:-1 ,山西卫视
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120118303484157828.rsc/89037_Uni.sdp
+#EXTINF:-1 ,陕西卫视
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120118332130518297.rsc/89046_Uni.sdp
+#EXTINF:-1 ,内蒙古卫视
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120118290217488762.rsc/89068_Uni.sdp
+#EXTINF:-1 ,宁夏卫视
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120118321878054010.rsc/89118_Uni.sdp
+#EXTINF:-1 ,新疆卫视
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120118204473437661.rsc/89023_Uni.sdp
+#EXTINF:-1 ,甘肃卫视
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120118361020628945.rsc/89048_Uni.sdp
+#EXTINF:-1 ,青海卫视
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120118273518671654.rsc/89097_Uni.sdp
+#EXTINF:-1 ,西藏卫视
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120116213780720306.rsc/89061_Uni.sdp
+#EXTINF:-1 ,兵团卫视
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120116250568011708.rsc/89008_Uni.sdp
+#EXTINF:-1 ,农林卫视
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120118335748437793.rsc/89028_Uni.sdp
+#EXTINF:-1 ,厦门卫视
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch17120418140581348001.rsc/89021_Uni.sdp
+#EXTINF:-1 ,三沙卫视
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch19120615372589393337.rsc/89555_Uni.sdp
+#EXTINF:-1 ,CETV2
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch17120417211408620162.rsc/89101_Uni.sdp
+#EXTINF:-1 ,CETV4
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch17120418055568047747.rsc/89109_Uni.sdp
+#EXTINF:-1 ,金鹰卡通
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch11122400412227153064.rsc/89049_Uni.sdp
+#EXTINF:-1 ,北京少儿
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120118400576795406.rsc/89128_Uni.sdp
+#EXTINF:-1 ,优漫卡通
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch11042914374730524823.rsc/89044_Uni.sdp
+#EXTINF:-1 ,哈哈炫动
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch11122400404197907033.rsc/89083_Uni.sdp
+#EXTINF:-1 ,嘉佳卡通
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch15050917541249689380.rsc/89122_Uni.sdp
+#EXTINF:-1 ,先锋乒羽
+rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch18120514104123291864.rsc/89057_Uni.sdp
+#EXTINF:-1 ,网络棋牌
+rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch18120514110394578528.rsc/89051_Uni.sdp
+#EXTINF:-1 ,新动漫
+rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch18120514112382335432.rsc/89126_Uni.sdp
